@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Knewave&family=Shadows+Into+Light+Two&display=swap');
+
+body {
+   max-Width: 700px;
+  margin: auto;
+  color: cornflowerblue;
+  Background-color: #B1D4DF
+}
+h1, h2, h3 {
+  Text-align: center;
+  background-color: beige;
+ font-family: "Knewave", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+P {
+font-family: "Shadows Into Light Two", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+Nav li {
+  List-style-type: none;
+  Display: inline-block;
+  Padding: 8px;
+  Background-color:#BBEEF0;
+}
+Table, th, td {
+  border: 2px solid;
+}
